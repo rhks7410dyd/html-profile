@@ -1,0 +1,23 @@
+.one {
+    color: #e3d684;
+    background-color: white;
+    margin: 12px;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+  }
+  
+  .two {
+    color: #3e4f65;
+    background-color: white;
+    margin: 12px;
+    width: 150px;
+    height: 70px;
+    display: inline-block;
+  }
+  .three {
+    color: #88a189;
+    background-color: white;
+    margin: 12px;
+    width: 75px;
+  }
